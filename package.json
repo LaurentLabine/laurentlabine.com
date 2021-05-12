@@ -1,10 +1,10 @@
 {
-  "name": "kentcdodds.com",
+  "name": "laurentlabine.com",
   "private": true,
-  "description": "Kent's personal website",
+  "description": "Laurent's personal website",
   "version": "1.0.5",
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (https://kentcdodds.com)",
-  "repository": "https://github.com/kentcdodds/kentcdodds.com",
+  "author": "Laurent Labine <laurentlabine@gmail.com> (https://laurentlabine.com)",
+  "repository": "https://github.com/laurentlabine/laurentlabine.com",
   "dependencies": {
     "@babel/runtime": "^7.12.5",
     "@emotion/core": "^11.0.0",
